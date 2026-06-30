@@ -1,10 +1,10 @@
 # Sistema de Gerenciamento de UPA
 
 **Disciplina:** Estruturas de Dados  
-**Autores:** [SEU NOME AQUI], Pedro Borgheti  
-**Linguagem:** C (padrão C11)
+**NOME:**, Pedro Borgheti  
 
----
+
+------------------------------------------------------------------------------------------
 
 ## Descrição
 
